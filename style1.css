@@ -1,0 +1,93 @@
+body  
+{  
+    margin: 0;  
+    padding: 0;  
+    background-color:#F5F6F7;  
+    font-family: 'Arial';  
+}  
+.login{  
+        width: 30em;  
+        overflow: hidden;  
+        margin: auto;  
+        margin: 0 0 0 31.5em;  
+
+        
+        padding: 0 0 0 2em;  
+
+        background::#E5E5E5 ;  
+        border-radius: .7em ;  
+          
+}  
+h2{  
+    text-align: center; 
+   
+    color: #3B3B3B; 
+    margin-block-start: 5.8em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0em;
+    margin-inline-end: 0em; 
+     
+}  
+ 
+#name ,#email,#branch{  
+    width: 22.5em;  
+    height: 2.4em;  
+    border: none;  
+    border-radius: .5em;  
+    padding-left: .5em;  
+}  
+#aadhar{
+    width: 11.5em;  
+    height: 2.4em;  
+    border: none;  
+    border-radius: .5em;  
+    padding-left: .5em; 
+
+}
+
+#rollnumber{
+    width: 10em;  
+    height: 2.4em;  
+    border: none;  
+    border-radius: .5em;  
+    padding-left: .5em; 
+}
+#Pass{  
+    width: 22.5em;  
+    height: 2.4em;  
+    border: none;  
+    border-radius: .5em;  
+    padding-left: .5em;  
+      
+}  
+#log{  
+    width: 22.5em;  
+    height: 2.3em;  
+    border: none;  
+    border-radius: 1em;  
+    padding-left: .5em;  
+    color: white;  
+    background-color:#FFBF0C;
+;
+  
+  
+}  
+#line{
+    font-size: .8em;
+    color:#C4C4C4;
+}
+#member{
+    color:black;
+    margin-left: 1.6em;
+}
+
+span{  
+    color: #C4C4C4;  
+    font-size: 1em;  
+}  
+a{  
+     color:#FFBF0C;  
+}  
+#forgot{
+    float:right;
+}
