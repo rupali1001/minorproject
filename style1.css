@@ -32,14 +32,16 @@ h2{
 #name ,#email,#branch{  
     width: 22.5em;  
     height: 2.4em;  
-    border: none;  
+    border: solid .07em;
+    border-color: #AFAFAF;  
     border-radius: .5em;  
     padding-left: .5em;  
 }  
 #aadhar{
     width: 11.5em;  
     height: 2.4em;  
-    border: none;  
+    border: solid .07em;
+    border-color: #AFAFAF;   
     border-radius: .5em;  
     padding-left: .5em; 
 
@@ -48,14 +50,16 @@ h2{
 #rollnumber{
     width: 10em;  
     height: 2.4em;  
-    border: none;  
+    border: solid .07em;
+    border-color: #AFAFAF; 
     border-radius: .5em;  
     padding-left: .5em; 
 }
 #Pass{  
     width: 22.5em;  
     height: 2.4em;  
-    border: none;  
+    border: solid .07em;
+    border-color: #AFAFAF;  
     border-radius: .5em;  
     padding-left: .5em;  
       

@@ -6,7 +6,7 @@ body
     font-family: 'Arial';  
 }  
 .login{  
-        width: 19em;  
+        width: 21em;  
         overflow: hidden;  
         margin: auto;  
         margin: 0 0 0 31.5em;  
@@ -30,16 +30,18 @@ h2{
 }  
  
 #Uname{  
-    width: 22.5em;  
+    width: 22em;  
     height: 2.4em;  
-    border: none;  
+    border: solid .07em;
+    border-color: #AFAFAF;   
     border-radius: .5em;  
     padding-left: .5em;  
 }  
 #Pass{  
-    width: 22.5em;  
+    width: 22em;  
     height: 2.4em;  
-    border: none;  
+    border: solid .07em;
+    border-color: #AFAFAF;  
     border-radius: .5em;  
     padding-left: .5em;  
       
